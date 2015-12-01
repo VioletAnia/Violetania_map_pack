@@ -1,0 +1,30 @@
+{
+  "context": "client",
+  "identifier": "nl.pa.Alpha.violetania_map_pack",
+  "display_name": "Violetania's Map Pack",
+  "description": "put description here",
+  "author": "Violetania",
+  "version": "1",
+  "build": "89755",
+  "date": "2015/12/01",
+  "signature": "not yet implemented",
+  "forum": "https://forums.uberent.com/threads/the-lana-series.70524/page-2#post-1120116",
+  "icon": "direct link to an icon on the web",
+  "category": [
+	  "map",
+	  "pack",
+	  "maps",
+	  "system",
+	  "planets",
+	  "planet",
+	  "systems"
+    ],
+    "load_planet": [
+        "coui://ui/mods/violetania/maplist.js"
+    ],
+	"priority": 100,
+    "enabled": true,
+    "dependencies": [
+        "com.pa.conundrum.cShareSystems"
+    ]
+}
