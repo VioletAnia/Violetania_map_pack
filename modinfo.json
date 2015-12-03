@@ -1,15 +1,15 @@
 {
   "context": "client",
   "identifier": "nl.pa.Alpha.violetania_map_pack",
-  "display_name": "Violetania's Map Pack",
-  "description": "put description here",
-  "author": "Violetania",
+  "display_name": "The Lana Series Maps by Violet Ania",
+  "description": "Maps covered hearts, snowflakes and monsters. There are maps for suitable for different types of games, Enjoy! <3 Violet",
+  "author": "Violet Ania",
   "version": "1",
   "build": "89755",
-  "date": "2015/12/01",
+  "date": "2015/12/03",
   "signature": "not yet implemented",
-  "forum": "https://forums.uberent.com/threads/the-lana-series.70524/page-2#post-1120116",
-  "icon": "direct link to an icon on the web",
+  "forum": "https://forums.uberent.com/threads/the-lana-series.70524/",
+  "icon": "http://i.imgur.com/k5f2FJl.jpg",
   "category": [
 	  "map",
 	  "pack",
@@ -18,6 +18,14 @@
 	  "planets",
 	  "planet",
 	  "systems"
+	  "violet"
+	  "ania"
+	  "violetania"
+	  "lana"
+	  "series"
+	  "the"
+	  "hearts"
+	  "stars"
     ],
     "load_planet": [
         "coui://ui/mods/violetania/maplist.js"

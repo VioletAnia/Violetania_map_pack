@@ -1,5 +1,8 @@
 ﻿cShareSystems.load_pas("Violet", [
-	"coui://ui/mods/alpha2546/systems/crevage.pas",	
-	"coui://ui/mods/alpha2546/systems/andromeda.pas",	
-	"coui://ui/mods/alpha2546/systems/harbour.pas"
+	"coui://ui/mods/violetania/systems/lana's_paradise.pas",	
+	"coui://ui/mods/violetania/systems/lana's_despair.pas",
+	"coui://ui/mods/violetania/systems/lana's_denial.pas",	
+	"coui://ui/mods/violetania/systems/lana's_dream.pas",
+	"coui://ui/mods/violetania/systems/lana's_heart.pas",
+	"coui://ui/mods/violetania/systems/lana's_bubble.pas",
 ]);
